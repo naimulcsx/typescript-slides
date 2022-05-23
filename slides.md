@@ -1,7 +1,6 @@
 ---
 theme: ./theme
 class: text-center
-background: "#111"
 highlighter: shiki
 lineNumbers: false
 drawings:
