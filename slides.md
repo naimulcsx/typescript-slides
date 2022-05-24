@@ -28,32 +28,22 @@ TypeScript for JavaScript Developers
   </a>
 </div>
 
-<!--
-The last comment block of each slide will be treated as slide notes. It will be visible and editable in Presenter Mode along with the slide. [Read more in the docs](https://sli.dev/guide/syntax.html#notes)
--->
-
 ---
 
 # What is TypeScript?
 
-- 📝 A Strongly typed programming language
+- 📝 A Typed superset of JavaScript
   ```ts
   const x: number = 10;
   const greet: string = "hello world";
   ```
-- 📈 Superset of JavaScript
 - 👽️ Types are optional
 - 🚀 Compiles to regular JavaScript
 - 🎉 Developed and maintained by Microsoft
 
-<!--
-You can have `style` tag in markdown to override the style for the current page.
-Learn more: https://sli.dev/guide/syntax#embedded-styles
--->
-
 ---
 
-# What does TypeScript provide?
+# What does it provide?
 
 - 💥 Has a very powerful type system
 - 🧪 Object-Oriented Programming
@@ -63,14 +53,14 @@ Learn more: https://sli.dev/guide/syntax#embedded-styles
   - 📙 Namespaces
   - 📦️ Interfaces
   - 💡 Generics
-  - 🌱 Tuples
+  - 🎨 Decorators
 - 🧑‍💻 TypeScript feels like the result of adding parts of C# to JavaScript
   - 🧐 Fun fact: C# and TypeScript is both designed by Anders Hejlsberg
 - 🚨 Remember: Everything is a syntactic sugar
 
 ---
 
-# Why It Matters?
+# Why does it matter?
 
 ### 🐛 Helps us find potential errors in compile-time
 
@@ -94,7 +84,7 @@ console.log(user.name);
 
 ---
 
-# Why It Matters?
+# Why does it matter?
 
 ### 🧠 It leaves our intent in the code
 
@@ -117,7 +107,7 @@ console.log(user.name);
 
 ---
 
-# Why It Matters?
+# Why does it matter?
 
 ### 🧑‍💻 Provides awesome Developer Experience (DX)
 
@@ -132,7 +122,7 @@ console.log(user.name);
 
 ---
 
-# Why It Matters?
+# Why does it matter?
 
 ### 🚀 TypeScript is Extremely Popular
 
