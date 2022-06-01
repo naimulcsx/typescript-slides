@@ -198,5 +198,3 @@ A dive into TypeScript compilation process.
     }
   }
   ```
-
----
