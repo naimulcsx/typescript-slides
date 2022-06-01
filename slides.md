@@ -173,5 +173,30 @@ A dive into TypeScript compilation process.
 <br> 
 <br>
 
-- Abstract Syntax Trees or ASTs are tree representations of code.
+- Abstract Syntax Trees or ASTs are tree representations of code
 - TypeChecker is a special program if verifies that your code is typesafe
+
+---
+
+# Configuring the TS Compiler
+
+- A `tsconfig.json` file in a directory indicates that it is the root of a TypeScript project
+- When we run tsc on the command line, it searches for a `tsconfig.json`
+- Example `tsconfig.json`
+  ```js
+  {
+    "compilerOptions": {
+      "outDir": "dist",
+      "target": "ES6",
+      "module": "CommonJS",
+      "noEmitOnError": true,
+      "lib": ["DOM", "ESNext"],
+    },
+    "include": ["src"],
+    "watchOptions": {
+      "watchDirectory": "useFsEvents"
+    }
+  }
+  ```
+
+---
