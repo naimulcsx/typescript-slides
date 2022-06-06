@@ -37,7 +37,6 @@ TypeScript for JavaScript Developers
   const x: number = 10;
   const greet: string = "hello world";
   ```
-- 👽️ Types are optional
 - 🚀 Compiles to regular JavaScript
 - 🎉 Developed and maintained by Microsoft
 
@@ -50,13 +49,13 @@ TypeScript for JavaScript Developers
   - 🔧 Support for access modifiers
   - 📝 Abstract classes etc
 - 💫 Adopts concepts from other languages
-  - 📙 Namespaces
-  - 📦️ Interfaces
-  - 💡 Generics
-  - 🎨 Decorators
+  - 📙 Namespace
+  - 📦️ Interface
+  - 💡 Generic
+  - 🎨 Decorator
 - 🧑‍💻 TypeScript feels like the result of adding parts of C# to JavaScript
   - 🧐 Fun fact: C# and TypeScript is both designed by Anders Hejlsberg
-- 🚨 Remember: Everything is a syntactic sugar
+- 🚨 Everything is a syntactic sugar
 
 ---
 
