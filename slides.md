@@ -53,7 +53,7 @@ TypeScript for JavaScript Developers
   - 📦️ Interface
   - 💡 Generic
   - 🎨 Decorator
-- 🧑‍💻 TypeScript feels like the result of adding parts of C# to JavaScript
+- 🧑‍💻 TypeScript feels simillar to C#
   - 🧐 Fun fact: C# and TypeScript is both designed by Anders Hejlsberg
 - 🚨 Everything is a syntactic sugar
 
